@@ -1,2 +1,3 @@
-# spacex-landingpage-clone
-For study CSS, JS
+# spacex-clone
+For study CSS, JS   
+https://www.spacex.com
